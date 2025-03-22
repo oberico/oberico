@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">- Undergraduate student in Computer Engineering<br>- Development Intern at OpemCode<br>-Learning</p>
+<p align="left">- Undergraduate student in Computer Engineering<br>- Development Intern at OpemCode<br>- Learning</p>
+
+###
+
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -27,10 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
-
-###
-
-<h2 align="left">Techs</h2>
 
 ###
 
