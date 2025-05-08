@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Undergraduate student in Computer Engineering<br>- Development Intern at OpemCode<br>- Learning</p>
+<p align="left">- Undergraduate student in Computer Engineering<br>- Development Intern at...<br>- Learning</p>
 
 ###
 
