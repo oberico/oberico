@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Undergraduate student in Computer Engineering<br>- Development Intern at...<br>- Learning</p>
+<p align="left">- Undergraduate student in Computer Engineering<br>- DevOps Intern at Tirrell<br>- Continuous learning, continuous improvement</p>
 
 ###
 
