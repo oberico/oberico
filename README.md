@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Undergraduate student in Computer Engineering<br>- Software Engineer at OpemCode<br>- Continuous learning, continuous improvement</p>
+<p align="left">- Undergraduate student in Computer Engineering<br>- Junior Software Engineer at OpemCode<br>- Continuous learning, continuous improvement</p>
 
 ###
 
